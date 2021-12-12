@@ -2,9 +2,9 @@ let client = AgoraRTC.createClient({mode:'rtc', 'codec':'vp8'})
 
 let config = {
     appid:'7f60f1cba3c14e21b8ae6093bf19bd5c',
-    token:'0067f60f1cba3c14e21b8ae6093bf19bd5cIAC/92HSWeTSMuiQzHp4n3NAYgtNg8Sbvswi3yjlgmuZ6Z1fCyoAAAAAEAB7rfAfr4O1YQEAAQCtg7Vh',
+    token:'0067f60f1cba3c14e21b8ae6093bf19bd5cIAB8kE9u+77NDeA+d0qzDnEds16t+oV7o00uI5u4oVvToxy+6fAAAAAAEAB7rfAf1g63YQEAAQDUDrdh',
     uid:null,
-    channel:'livestream',
+    channel:'stream',
 }
 
 let localTracks = {
