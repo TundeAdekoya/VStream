@@ -1,8 +1,8 @@
 let client = AgoraRTC.createClient({mode:'rtc', 'codec':'vp8'}) 
 
 let config = {
-    appid:'c6573d31903d4ffabfe59b7e7f8a0e15',
-    token:'006c6573d31903d4ffabfe59b7e7f8a0e15IACjnH3UQO6J17xZTo8vrz/C8W8nSqp2jFuBsZdKvMQChtAl/1MAAAAAEAAcu75Gdc5PYgEAAQB1zk9i',
+    appid:'142ed52c156c45438c7424e9d4fea0e6',
+    token:'006142ed52c156c45438c7424e9d4fea0e6IAAHGaOyqHoxYofGoALuWv4zFgseeUwXTSONVXW05b042dAl/1MAAAAAEAAcu75GX9BPYgEAAQBf0E9i',
     uid:null,
     channel:'vstream',
 }
